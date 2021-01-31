@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mayael the Anima"/>
+        <card number="1" name="Court of Bounty"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Lurking Predators"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Quicksilver Amulet"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="5" name="Forest"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Mountain"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Sneak Attack"/>
+        <card number="1" name="Heartstone"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cinder Glade"/>
+    </zone>
+</cockatrice_deck>

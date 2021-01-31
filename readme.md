@@ -54,9 +54,10 @@ Fun Features:
 
 ### Mayael Monster Mash:
 
-* Use this randomizer on a small base deck including ramp and a few Mayael commander staples to create about twenty decks
-* Share the decks with your pod and have everyone play a randomly chosen deck in a four-way beat-em-up
-* Profit?
+* Use this randomizer on a small base deck featuring ramp and a few commander staples (included [here](./sample_base_decks/base.cod)) to create about twenty decks
+* Share the decks with your pod ahead of the game
+* Have everyone play a randomly chosen deck from the collection, ideally without looking at the included creatures first.
+* Smash face and profit?
 
 ## Closing Notes
 Suggestions and requests are always welcome, but please bear in mind that I initially wrote this as a weekend project and don't expect to support it actively.  Nonetheless, if you find it fun, I'd be delighted to hear about it!
