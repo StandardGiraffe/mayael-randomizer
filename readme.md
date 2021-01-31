@@ -2,7 +2,7 @@
 
 ![Mayael the Anima](https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/309d95ad-e46c-4407-894d-d4cfdc7017f8.jpg?1562905228 "Mayael the Anima")
 
-This silly Ruby program builds Cockatrice commander deck featuring [Mayael the Anima](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376407) and a random selection of creatures matching the WRG colour signature with five or greater power.
+This silly Ruby program builds Cockatrice commander decks featuring [Mayael the Anima](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376407) and a random selection of creatures matching the WRG colour signature with five or greater power.
 
 Fun Features:
 * Basic lands will be added that support the distribution of mana costs in the selected creatures
