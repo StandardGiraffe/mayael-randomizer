@@ -1,0 +1,14 @@
+---
+base_deck:  # (Optional but recommended) Path to Cockatrice `.cod` file with mandatory cards
+output_directory:  # Path to desired output directory
+basic_land_slots:  # Desired number of additional basic lands
+pool_yaml:  # Path to the creature pool YAML, `pool.yml` (normally found in `./db`)
+
+# All filters are optional
+filters:
+  remove_rarities:  # 'Common', 'Uncommon', 'Rare', 'Mythic Rare'
+    -
+  remove_eldrazi:  # Will exclude all Eldrazi creatures if `true`
+  remove_unsets:  # Will exclude the Un-Sets if `true` (Unglued, Unhinged, Unstable, Unsanctioned)
+  remove_creatures:  # Will exclude all creatures specifically listed by name
+    -
