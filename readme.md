@@ -40,8 +40,8 @@ Fun Features:
 
 5. *Optionally,* configure filters in `config.yml`:
    * You may **`remove_rarities`** from the creature pools as an array of `Common`, `Uncommon`, `Rare`, and `Mythic Rare`
-   * You may all **`remove_eldrazi`** from the pool by setting this to `true`
-   * You may all **`remove_unsets`** from the pool by setting this to `true` (*Unglued*, *Unhinged*, *Unstable*, and *Unsanctioned* cards will currently be removed)
+   * You may **`remove_eldrazi`** from the pool by setting this to `true`
+   * You may **`remove_unsets`** from the pool by setting this to `true` (*Unglued*, *Unhinged*, *Unstable*, and *Unsanctioned* cards will currently be removed)
    * You may exclude a list of specific creatures as an array creature names within **`remove_creatures`**
 
 6. Finally, run `main.rb` to generate your deck:
